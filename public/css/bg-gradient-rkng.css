@@ -1,0 +1,8 @@
+.bg-gradient-rkng{
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ee0979), color-stop(100%,#ff6a00));
+    background: -webkit-linear-gradient(150deg, #ee0979 0%, #ff6a00 100%);
+    background: -o-linear-gradient(150deg, #ff6a00 0%, #ee0979 100%);
+    background: -ms-linear-gradient(150deg, #ff6a00 0%, #ee0979 100%);
+    background: linear-gradient(150deg, #ee0979 0%, #ff6a00 100%);
+    background-size: cover;
+}    
